@@ -1,10 +1,8 @@
-# codepath-prework
+# Prework - *BackgroundChanger*
 
-# Prework - *Name of App Here*
+Submitted by: **Eloy Beaucejour**
 
-Submitted by: **Your Name Here**
-
-**Name of your app** is an app that... [TODO] 
+**BackgroundChanger** is an app that... [TODO] 
 
 Time spent: **X** hours spent in total
 
@@ -12,8 +10,8 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [X] Users are see a screen with three labels and a button
+- [X] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -25,11 +23,11 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Linking the action to the button 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Eloy Beaucejour]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
