@@ -4,7 +4,7 @@ Submitted by: **Eloy Beaucejour**
 
 **BackgroundChanger** is an app that... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -15,7 +15,13 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+<div>
+    <a href="https://www.loom.com/share/1d066b8d93544a42ac34378c7b185d5a">
+    </a>
+    <a href="https://www.loom.com/share/1d066b8d93544a42ac34378c7b185d5a">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/1d066b8d93544a42ac34378c7b185d5a-9eed5af47e8ec6c1-full-play.gif">
+    </a>
+  </div>
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
